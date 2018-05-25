@@ -1,5 +1,7 @@
 # Supervised-Machine-Learning-Medical_Diagnostic   
    
+[Check out the report and source code](https://github.com/DataSorcerer/Supervised-Machine-Learning-Medical_Diagnostic/blob/master/Predictive_Modelling_Medical_diagnosis.ipynb)   
+
    Since past few years, supervised machine learning techniques have been leveraged successfully for building highly accurate predictive models for medical diagnostic tests. In this experiment, I have explored the problem of predicting medical test outcome based on following features:
 - Plasma glucose level
 - Blood Pressure
